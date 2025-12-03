@@ -13,7 +13,7 @@ export const PRODUCTS: Product[] = [
     longDescription: "Estos audífonos están diseñados para que te muevas con libertad sin que se caigan. Tienen un diseño de cuello flexible (neckband) súper cómodo. Lo mejor es su batería de larga duración: te ofrecen hasta 40 horas de reproducción continua, así que puedes usarlos varios días sin cargarlos. Cuentan con sonido Super Bass para graves profundos que motivan al entrenar y un sistema magnético para llevarlos colgados seguramente cuando no los usas.",
     category: "Audio",
     imageAlt: "Caja de audífonos Romax color negro con azul",
-    imageUrl: "images/romax-neckband.jpg",
+    imageUrl: "public/images/romax-neckband.jpg",
     isOffer: true
   },
   {
@@ -25,7 +25,7 @@ export const PRODUCTS: Product[] = [
     longDescription: "Este es un modelo premium compacto. Su principal ventaja es que cuenta con doble cancelación de ruido (ANC + ENC), lo que significa que aísla el ruido exterior para que escuches tu música limpia y tus llamadas sean claras. El estuche viene con una pantalla digital que te indica el porcentaje exacto de batería, y su diseño es ergonómico para usar por horas sin molestias.",
     category: "Audio",
     imageAlt: "Caja roja navideña de audífonos Ewtto",
-    imageUrl: "images/ewtto-navidad.jpg",
+    imageUrl: "public/images/ewtto-navidad.jpg",
     isNew: true
   },
   {
